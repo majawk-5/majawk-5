@@ -1,6 +1,6 @@
 Hi there, I'm Maja
 # 💫 About Me:
-🎓I'm currently studying Mathematics and Data Science at WUT.<br>💭Learning statistical learning, stochastic analysis and application to Markov Chains.<br>🎨My hobbies are travelling, learning languages and sailing.
+🎓I'm currently studying Mathematics and Data Science at WUT.<br>💭Learning statistical learning, stochastic analysis and applications to Markov Chains.<br>🎨My hobbies are travelling, learning languages and sailing.
 
 
 # 💻 Tech Stack:
